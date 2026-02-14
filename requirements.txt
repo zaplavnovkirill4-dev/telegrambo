@@ -1,4 +1,7 @@
-python-telegram-bot==20.7
-Pillow==10.1.0
-psycopg2-binary==2.9.9
-telegram
+pip install -r requirements.txt
+Собираем Pillow==10
+Загрузка Pillow-10
+...
+Установка зависимостей
+Получение требований
+ошибка: subprocess-exited-with-error
