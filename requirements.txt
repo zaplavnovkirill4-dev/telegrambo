@@ -1,7 +1,5 @@
-pip install -r requirements.txt
-Собираем Pillow==10
-Загрузка Pillow-10
-...
-Установка зависимостей
-Получение требований
-ошибка: subprocess-exited-with-error
+aiogram==3.4.1
+Pillow==10.4.0
+python-dotenv==1.0.0
+aiohttp==3.9.1
+
